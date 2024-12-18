@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    sources>
+    <string name="app_name">سروین</string>
+    <string name="login">ورود</string>
+    <string name="home">خانه</string>
+    <string name="setting">تنظیمات</string>
+    <string name="serviceRequestDetail">جزییات درخواست سرویس</string>
+    <string name="welcome">به سروین خوش آمدید</string>
+    <string name="signIn">وارد شوید</string>
+    <string name="userName">نام کاربری</string>
+    <string name="userNameDescription">نام کاربری خود را وارد کنید</string>
+    <string name="passWord">رمز عبور</string>
+    <string name="passWordDescription">رمز عبور خود را وارد کنید</string>
+    <string name="forgetPassword">فراموشی رمز عبور</string>
+    <string name="chooseLanguage">انتخاب زبان</string>
+    <string name="assignRequests">محول</string>
+    <string name="requests">درخواست ها</string>
+</resources>

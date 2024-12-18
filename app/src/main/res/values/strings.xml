@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ServIn</string>
+    <string name="login">login</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="serviceRequestDetail">ServiceRequestDetail</string>
+    <string name="welcome">Welcome to ServIn</string>
+    <string name="signIn">Sign In</string>
+    <string name="userName">UserName</string>
+    <string name="userNameDescription">Enter your username</string>
+    <string name="passWord">Password</string>
+    <string name="passWordDescription">Enter your password</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="chooseLanguage">Choose Language</string>
+    <string name="assignRequests">Assign</string>
+    <string name="requests">Requests</string>
+</resources>
