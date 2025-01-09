@@ -4,9 +4,10 @@ import com.example.servinelectrosteelreal.data.datasource.local.GenresLocalDataS
 import com.example.servinelectrosteelreal.data.datasource.local.GenresLocalDataSourceImp
 import dagger.Module
 import dagger.Provides
+
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
-import jakarta.inject.Singleton
+import javax.inject.Singleton
 
 
 @Module

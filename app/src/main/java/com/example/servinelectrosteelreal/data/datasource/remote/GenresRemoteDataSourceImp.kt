@@ -4,6 +4,7 @@ import com.example.servinelectrosteelreal.data.source.remote.GenreRemoteInterfac
 import com.example.servinelectrosteelreal.data.source.remote.GenresRemote
 import javax.inject.Inject
 
+
 class GenresRemoteDataSourceImp @Inject constructor(
     private val remoteService: GenreRemoteInterface
 ) : GenresRemoteDataSource {

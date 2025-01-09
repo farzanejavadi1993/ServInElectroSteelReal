@@ -1,4 +1,4 @@
-package com.example.servinelectrosteelreal.presentation.application
+package com.example.servinelectrosteelreal.presentation.core
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
